@@ -1,0 +1,7 @@
+x	variation	p	Compartment
+bac_R	11.9	p=0.001	Root
+bac_M	5.88	p=0.606	Matrix
+fun_R	7.04	p=0.105	Root
+fun_M	10.4	p=0.023	Matrix
+oom_R	5.88	p=0.574	Root
+oom_M	5.36	p=0.659	Matrix

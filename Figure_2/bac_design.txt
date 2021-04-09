@@ -1,0 +1,122 @@
+SampleID	Compartment	Condition	ConCom	System	Replicate	Microbe	Library	not_include	Description
+1R.6.1	Root	Normal.Microbes	Normal.Microbes.Root	FlowPot	1	BFO.LLL	L0177		
+1R.6.2	Root	Normal.Microbes	Normal.Microbes.Root	FlowPot	1	BFO.LLL	L0177		
+1R.6.3	Root	Normal.Microbes	Normal.Microbes.Root	FlowPot	1	BFO.LLL	L0177		
+1R.6.4	Root	Normal.Microbes	Normal.Microbes.Root	FlowPot	1	BFO.LLL	L0177		
+1R.7.1	Root	Salt.Microbes	Salt.Microbes.Root	FlowPot	1	BFO.LLL	L0177	yes	
+1R.7.2	Root	Salt.Microbes	Salt.Microbes.Root	FlowPot	1	BFO.LLL	L0177	yes	
+1R.7.3	Root	Salt.Microbes	Salt.Microbes.Root	FlowPot	1	BFO.LLL	L0177	yes	
+1R.7.4	Root	Salt.Microbes	Salt.Microbes.Root	FlowPot	1	BFO.LLL	L0177	yes	
+1R.8.1	Root	PEG.Microbes	PEG.Microbes.Root	FlowPot	1	BFO.LLL	L0177	yes	
+1R.8.2	Root	PEG.Microbes	PEG.Microbes.Root	FlowPot	1	BFO.LLL	L0177	yes	
+1R.8.3	Root	PEG.Microbes	PEG.Microbes.Root	FlowPot	1	BFO.LLL	L0177	yes	
+1R.8.4	Root	PEG.Microbes	PEG.Microbes.Root	FlowPot	1	BFO.LLL	L0177	yes	
+1R.9.1	Root	Shade.Microbes	Shade.Microbes.Root	FlowPot	1	BFO.LLL	L0177		
+1R.9.2	Root	Shade.Microbes	Shade.Microbes.Root	FlowPot	1	BFO.LLL	L0177		
+1R.9.3	Root	Shade.Microbes	Shade.Microbes.Root	FlowPot	1	BFO.LLL	L0177		
+1R.9.4	Root	Shade.Microbes	Shade.Microbes.Root	FlowPot	1	BFO.LLL	L0177		
+1R.10.1	Root	Pst.Microbes	Pst.Microbes.Root	FlowPot	1	BFO.LLL	L0177	yes	
+1R.10.2	Root	Pst.Microbes	Pst.Microbes.Root	FlowPot	1	BFO.LLL	L0177	yes	
+1R.10.3	Root	Pst.Microbes	Pst.Microbes.Root	FlowPot	1	BFO.LLL	L0177	yes	
+1R.10.4	Root	Pst.Microbes	Pst.Microbes.Root	FlowPot	1	BFO.LLL	L0177	yes	
+1M.6.1	Matrix	Normal.Microbes	Normal.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177		
+1M.6.2	Matrix	Normal.Microbes	Normal.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177		
+1M.6.3	Matrix	Normal.Microbes	Normal.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177		
+1M.6.4	Matrix	Normal.Microbes	Normal.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177		
+1M.7.1	Matrix	Salt.Microbes	Salt.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177	yes	
+1M.7.2	Matrix	Salt.Microbes	Salt.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177	yes	
+1M.7.3	Matrix	Salt.Microbes	Salt.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177	yes	
+1M.7.4	Matrix	Salt.Microbes	Salt.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177	yes	
+1M.8.1	Matrix	PEG.Microbes	PEG.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177	yes	
+1M.8.2	Matrix	PEG.Microbes	PEG.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177	yes	
+1M.8.3	Matrix	PEG.Microbes	PEG.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177	yes	
+1M.8.4	Matrix	PEG.Microbes	PEG.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177	yes	
+1M.9.1	Matrix	Shade.Microbes	Shade.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177		
+1M.9.2	Matrix	Shade.Microbes	Shade.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177		
+1M.9.3	Matrix	Shade.Microbes	Shade.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177		
+1M.9.4	Matrix	Shade.Microbes	Shade.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177		
+1M.10.1	Matrix	Pst.Microbes	Pst.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177	yes	
+1M.10.2	Matrix	Pst.Microbes	Pst.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177	yes	
+1M.10.3	Matrix	Pst.Microbes	Pst.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177	yes	
+1M.10.4	Matrix	Pst.Microbes	Pst.Microbes.Matrix	FlowPot	1	BFO.LLL	L0177	yes	
+2R.6.1	Root	Normal.Microbes	Normal.Microbes.Root	FlowPot	2	BFO.LLL	L0177		
+2R.6.2	Root	Normal.Microbes	Normal.Microbes.Root	FlowPot	2	BFO.LLL	L0177		
+2R.6.3	Root	Normal.Microbes	Normal.Microbes.Root	FlowPot	2	BFO.LLL	L0177		
+2R.6.4	Root	Normal.Microbes	Normal.Microbes.Root	FlowPot	2	BFO.LLL	L0177		
+2R.7.1	Root	Salt.Microbes	Salt.Microbes.Root	FlowPot	2	BFO.LLL	L0177	yes	
+2R.7.2	Root	Salt.Microbes	Salt.Microbes.Root	FlowPot	2	BFO.LLL	L0177	yes	
+2R.7.3	Root	Salt.Microbes	Salt.Microbes.Root	FlowPot	2	BFO.LLL	L0177	yes	
+2R.7.4	Root	Salt.Microbes	Salt.Microbes.Root	FlowPot	2	BFO.LLL	L0177	yes	
+2R.8.1	Root	PEG.Microbes	PEG.Microbes.Root	FlowPot	2	BFO.LLL	L0177	yes	
+2R.8.2	Root	PEG.Microbes	PEG.Microbes.Root	FlowPot	2	BFO.LLL	L0177	yes	
+2R.8.3	Root	PEG.Microbes	PEG.Microbes.Root	FlowPot	2	BFO.LLL	L0177	yes	
+2R.8.4	Root	PEG.Microbes	PEG.Microbes.Root	FlowPot	2	BFO.LLL	L0177	yes	
+2R.9.1	Root	Shade.Microbes	Shade.Microbes.Root	FlowPot	2	BFO.LLL	L0177		
+2R.9.2	Root	Shade.Microbes	Shade.Microbes.Root	FlowPot	2	BFO.LLL	L0177		
+2R.9.3	Root	Shade.Microbes	Shade.Microbes.Root	FlowPot	2	BFO.LLL	L0177		
+2R.9.4	Root	Shade.Microbes	Shade.Microbes.Root	FlowPot	2	BFO.LLL	L0177		
+2R.10.1	Root	Pst.Microbes	Pst.Microbes.Root	FlowPot	2	BFO.LLL	L0177	yes	
+2R.10.2	Root	Pst.Microbes	Pst.Microbes.Root	FlowPot	2	BFO.LLL	L0177	yes	
+2R.10.3	Root	Pst.Microbes	Pst.Microbes.Root	FlowPot	2	BFO.LLL	L0177	yes	
+2R.10.4	Root	Pst.Microbes	Pst.Microbes.Root	FlowPot	2	BFO.LLL	L0177	yes	
+2M.6.1	Matrix	Normal.Microbes	Normal.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177		
+2M.6.2	Matrix	Normal.Microbes	Normal.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177		
+2M.6.3	Matrix	Normal.Microbes	Normal.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177		
+2M.6.4	Matrix	Normal.Microbes	Normal.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177		
+2M.7.1	Matrix	Salt.Microbes	Salt.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177	yes	
+2M.7.2	Matrix	Salt.Microbes	Salt.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177	yes	
+2M.7.3	Matrix	Salt.Microbes	Salt.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177	yes	
+2M.8.1	Matrix	PEG.Microbes	PEG.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177	yes	
+2M.8.2	Matrix	PEG.Microbes	PEG.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177	yes	
+2M.8.3	Matrix	PEG.Microbes	PEG.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177	yes	
+2M.8.4	Matrix	PEG.Microbes	PEG.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177	yes	
+2M.9.1	Matrix	Shade.Microbes	Shade.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177		
+2M.9.2	Matrix	Shade.Microbes	Shade.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177		
+2M.9.3	Matrix	Shade.Microbes	Shade.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177		
+2M.9.4	Matrix	Shade.Microbes	Shade.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177		
+2M.10.1	Matrix	Pst.Microbes	Pst.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177	yes	
+2M.10.2	Matrix	Pst.Microbes	Pst.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177	yes	
+2M.10.3	Matrix	Pst.Microbes	Pst.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177	yes	
+2M.10.4	Matrix	Pst.Microbes	Pst.Microbes.Matrix	FlowPot	2	BFO.LLL	L0177	yes	
+3R.6.1	Root	Normal.Microbes	Normal.Microbes.Root	FlowPot	3	BFO.LLL	L0178		
+3R.6.2	Root	Normal.Microbes	Normal.Microbes.Root	FlowPot	3	BFO.LLL	L0178		
+3R.6.3	Root	Normal.Microbes	Normal.Microbes.Root	FlowPot	3	BFO.LLL	L0178		
+3R.6.4	Root	Normal.Microbes	Normal.Microbes.Root	FlowPot	3	BFO.LLL	L0178		
+3R.7.1	Root	Salt.Microbes	Salt.Microbes.Root	FlowPot	3	BFO.LLL	L0178	yes	
+3R.7.2	Root	Salt.Microbes	Salt.Microbes.Root	FlowPot	3	BFO.LLL	L0178	yes	
+3R.7.3	Root	Salt.Microbes	Salt.Microbes.Root	FlowPot	3	BFO.LLL	L0178	yes	
+3R.7.4	Root	Salt.Microbes	Salt.Microbes.Root	FlowPot	3	BFO.LLL	L0178	yes	
+3R.8.1	Root	PEG.Microbes	PEG.Microbes.Root	FlowPot	3	BFO.LLL	L0178	yes	
+3R.8.2	Root	PEG.Microbes	PEG.Microbes.Root	FlowPot	3	BFO.LLL	L0178	yes	
+3R.8.3	Root	PEG.Microbes	PEG.Microbes.Root	FlowPot	3	BFO.LLL	L0178	yes	
+3R.8.4	Root	PEG.Microbes	PEG.Microbes.Root	FlowPot	3	BFO.LLL	L0178	yes	
+3R.9.1	Root	Shade.Microbes	Shade.Microbes.Root	FlowPot	3	BFO.LLL	L0178		
+3R.9.2	Root	Shade.Microbes	Shade.Microbes.Root	FlowPot	3	BFO.LLL	L0178		
+3R.9.3	Root	Shade.Microbes	Shade.Microbes.Root	FlowPot	3	BFO.LLL	L0178		
+3R.9.4	Root	Shade.Microbes	Shade.Microbes.Root	FlowPot	3	BFO.LLL	L0178		
+3R.10.1	Root	Pst.Microbes	Pst.Microbes.Root	FlowPot	3	BFO.LLL	L0178	yes	
+3R.10.2	Root	Pst.Microbes	Pst.Microbes.Root	FlowPot	3	BFO.LLL	L0178	yes	
+3R.10.3	Root	Pst.Microbes	Pst.Microbes.Root	FlowPot	3	BFO.LLL	L0178	yes	
+3R.10.4	Root	Pst.Microbes	Pst.Microbes.Root	FlowPot	3	BFO.LLL	L0178	yes	
+3M.6.1	Matrix	Normal.Microbes	Normal.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178		
+3M.6.2	Matrix	Normal.Microbes	Normal.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178		
+3M.6.4	Matrix	Normal.Microbes	Normal.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178		
+3M.7.1	Matrix	Salt.Microbes	Salt.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178	yes	
+3M.7.2	Matrix	Salt.Microbes	Salt.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178	yes	
+3M.7.3	Matrix	Salt.Microbes	Salt.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178	yes	
+3M.7.4	Matrix	Salt.Microbes	Salt.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178	yes	
+3M.8.1	Matrix	PEG.Microbes	PEG.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178	yes	
+3M.8.2	Matrix	PEG.Microbes	PEG.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178	yes	
+3M.8.3	Matrix	PEG.Microbes	PEG.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178	yes	
+3M.8.4	Matrix	PEG.Microbes	PEG.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178	yes	
+3M.9.1	Matrix	Shade.Microbes	Shade.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178		
+3M.9.2	Matrix	Shade.Microbes	Shade.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178		
+3M.9.3	Matrix	Shade.Microbes	Shade.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178		
+3M.9.4	Matrix	Shade.Microbes	Shade.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178		
+3M.10.1	Matrix	Pst.Microbes	Pst.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178	yes	
+3M.10.2	Matrix	Pst.Microbes	Pst.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178	yes	
+3M.10.3	Matrix	Pst.Microbes	Pst.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178	yes	
+3M.10.4	Matrix	Pst.Microbes	Pst.Microbes.Matrix	FlowPot	3	BFO.LLL	L0178	yes	
+Input1	Input	Input	Input.Input	FlowPot	1	B	L0178	yes	
+Input2	Input	Input	Input.Input	FlowPot	2	B	L0178	yes	
+Input3	Input	Input	Input.Input	FlowPot	3	B	L0178	yes	
