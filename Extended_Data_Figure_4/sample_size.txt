@@ -1,0 +1,6 @@
+lab	average_reads
+H2O	19
+leaf_germfree	1057
+root_germfree	2081
+leaf_BFO	56118
+root_BFO	63955
