@@ -1,0 +1,100 @@
+SampleID	Compartment	Condition	System	Replicate	Microbe	Library	not_include	Description
+M_LLL_F1	Matrix	LLL_F	FlowPot	1	Bacteria	L01631		M_LLL_F1
+M_LLH_F1	Matrix	LLH_F	FlowPot	1	Bacteria	L01631		M_LLH_F1
+M_LHL_F1	Matrix	LHL_F	FlowPot	1	Bacteria	L01631		M_LHL_F1
+M_LHH_F1	Matrix	LHH_F	FlowPot	1	Bacteria	L01631		M_LHH_F1
+M_HLL_F1	Matrix	HLL_F	FlowPot	1	Bacteria	L01631		M_HLL_F1
+M_HHL_F1	Matrix	HHL_F	FlowPot	1	Bacteria	L01631		M_HHL_F1
+M_HLH_F1	Matrix	HLH_F	FlowPot	1	Bacteria	L01631		M_HLH_F1
+M_HHH_F1	Matrix	HHH_F	FlowPot	1	Bacteria	L01631		M_HHH_F1
+R_LLL_F1	Root	LLL_F	FlowPot	1	Bacteria	L01631		R_LLL_F1
+R_LLH_F1	Root	LLH_F	FlowPot	1	Bacteria	L01631		R_LLH_F1
+R_LHL_F1	Root	LHL_F	FlowPot	1	Bacteria	L01631		R_LHL_F1
+R_LHH_F1	Root	LHH_F	FlowPot	1	Bacteria	L01631		R_LHH_F1
+R_HLL_F1	Root	HLL_F	FlowPot	1	Bacteria	L01631		R_HLL_F1
+R_HLH_F1	Root	HLH_F	FlowPot	1	Bacteria	L01631		R_HLH_F1
+R_HHL_F1	Root	HHL_F	FlowPot	1	Bacteria	L01631		R_HHL_F1
+R_HHH_F1	Root	HHH_F	FlowPot	1	Bacteria	L01631		R_HHH_F1
+M_LLL_F2	Matrix	LLL_F	FlowPot	2	Bacteria	L01631		M_LLL_F2
+M_LLH_F2	Matrix	LLH_F	FlowPot	2	Bacteria	L01631		M_LLH_F2
+M_LHL_F2	Matrix	LHL_F	FlowPot	2	Bacteria	L01631		M_LHL_F2
+M_LHH_F2	Matrix	LHH_F	FlowPot	2	Bacteria	L01631		M_LHH_F2
+M_HLL_F2	Matrix	HLL_F	FlowPot	2	Bacteria	L01631		M_HLL_F2
+M_HLH_F2	Matrix	HLH_F	FlowPot	2	Bacteria	L01631		M_HLH_F2
+M_HHL_F2	Matrix	HHL_F	FlowPot	2	Bacteria	L01631		M_HHL_F2
+M_HHH_F2	Matrix	HHH_F	FlowPot	2	Bacteria	L01631		M_HHH_F2
+R_LLL_F2	Root	LLL_F	FlowPot	2	Bacteria	L01631		R_LLL_F2
+R_LLH_F2	Root	LLH_F	FlowPot	2	Bacteria	L01631		R_LLH_F2
+R_LHL_F2	Root	LHL_F	FlowPot	2	Bacteria	L01631		R_LHL_F2
+R_LHH_F2	Root	LHH_F	FlowPot	2	Bacteria	L01631		R_LHH_F2
+R_HLL_F2	Root	HLL_F	FlowPot	2	Bacteria	L01631		R_HLL_F2
+R_HLH_F2	Root	HLH_F	FlowPot	2	Bacteria	L01631		R_HLH_F2
+R_HHL_F2	Root	HHL_F	FlowPot	2	Bacteria	L01631		R_HHL_F2
+R_HHH_F2	Root	HHH_F	FlowPot	2	Bacteria	L01631		R_HHH_F2
+M_LLL_F3	Matrix	LLL_F	FlowPot	3	Bacteria	L01631		M_LLL_F3
+M_LLH_F3	Matrix	LLH_F	FlowPot	3	Bacteria	L01631		M_LLH_F3
+M_LHL_F3	Matrix	LHL_F	FlowPot	3	Bacteria	L01631		M_LHL_F3
+M_LHH_F3	Matrix	LHH_F	FlowPot	3	Bacteria	L01631		M_LHH_F3
+M_HLL_F3	Matrix	HLL_F	FlowPot	3	Bacteria	L01631		M_HLL_F3
+M_HLH_F3	Matrix	HLH_F	FlowPot	3	Bacteria	L01631		M_HLH_F3
+M_HHL_F3	Matrix	HHL_F	FlowPot	3	Bacteria	L01631		M_HHL_F3
+M_HHH_F3	Matrix	HHH_F	FlowPot	3	Bacteria	L01631		M_HHH_F3
+R_LLL_F3	Root	LLL_F	FlowPot	3	Bacteria	L01631		R_LLL_F3
+R_LLH_F3	Root	LLH_F	FlowPot	3	Bacteria	L01631		R_LLH_F3
+R_LHL_F3	Root	LHL_F	FlowPot	3	Bacteria	L01631		R_LHL_F3
+R_LHH_F3	Root	LHH_F	FlowPot	3	Bacteria	L01631		R_LHH_F3
+R_HLL_F3	Root	HLL_F	FlowPot	3	Bacteria	L01631		R_HLL_F3
+R_HLH_F3	Root	HLH_F	FlowPot	3	Bacteria	L01631		R_HLH_F3
+R_HHL_F3	Root	HHL_F	FlowPot	3	Bacteria	L01631		R_HHL_F3
+R_HHH_F3	Root	HHH_F	FlowPot	3	Bacteria	L01631		R_HHH_F3
+M_LLL_C1	Matrix	LLL_C	CalcinedClay	1	Bacteria	L01631	yes	M_LLL_C1
+M_LLH_C1	Matrix	LLH_C	CalcinedClay	1	Bacteria	L01631	yes	M_LLH_C1
+M_LHL_C1	Matrix	LHL_C	CalcinedClay	1	Bacteria	L01631	yes	M_LHL_C1
+M_LHH_C1	Matrix	LHH_C	CalcinedClay	1	Bacteria	L01631	yes	M_LHH_C1
+M_HLL_C1	Matrix	HLL_C	CalcinedClay	1	Bacteria	L01631	yes	M_HLL_C1
+M_HLH_C1	Matrix	HLH_C	CalcinedClay	1	Bacteria	L01631	yes	M_HLH_C1
+M_HHL_C1	Matrix	HHL_C	CalcinedClay	1	Bacteria	L01631	yes	M_HHL_C1
+M_HHH_C1	Matrix	HHH_C	CalcinedClay	1	Bacteria	L01631	yes	M_HHH_C1
+R_LLL_C1	Root	LLL_C	CalcinedClay	1	Bacteria	L01631	yes	R_LLL_C1
+R_LLH_C1	Root	LLH_C	CalcinedClay	1	Bacteria	L01631	yes	R_LLH_C1
+R_LHL_C1	Root	LHL_C	CalcinedClay	1	Bacteria	L01631	yes	R_LHL_C1
+R_LHH_C1	Root	LHH_C	CalcinedClay	1	Bacteria	L01631	yes	R_LHH_C1
+R_HLL_C1	Root	HLL_C	CalcinedClay	1	Bacteria	L01631	yes	R_HLL_C1
+R_HLH_C1	Root	HLH_C	CalcinedClay	1	Bacteria	L01631	yes	R_HLH_C1
+R_HHL_C1	Root	HHL_C	CalcinedClay	1	Bacteria	L01631	yes	R_HHL_C1
+R_HHH_C1	Root	HHH_C	CalcinedClay	1	Bacteria	L01631	yes	R_HHH_C1
+M_LLL_C2	Matrix	LLL_C	CalcinedClay	2	Bacteria	L01631	yes	M_LLL_C2
+M_LLH_C2	Matrix	LLH_C	CalcinedClay	2	Bacteria	L01631	yes	M_LLH_C2
+M_LHL_C2	Matrix	LHL_C	CalcinedClay	2	Bacteria	L01631	yes	M_LHL_C2
+M_LHH_C2	Matrix	LHH_C	CalcinedClay	2	Bacteria	L01631	yes	M_LHH_C2
+M_HLL_C2	Matrix	HLL_C	CalcinedClay	2	Bacteria	L01631	yes	M_HLL_C2
+M_HLH_C2	Matrix	HLH_C	CalcinedClay	2	Bacteria	L01631	yes	M_HLH_C2
+M_HHL_C2	Matrix	HHL_C	CalcinedClay	2	Bacteria	L01631	yes	M_HHL_C2
+M_HHH_C2	Matrix	HHH_C	CalcinedClay	2	Bacteria	L01631	yes	M_HHH_C2
+R_LLL_C2	Root	LLL_C	CalcinedClay	2	Bacteria	L01631	yes	R_LLL_C2
+R_LLH_C2	Root	LLH_C	CalcinedClay	2	Bacteria	L01631	yes	R_LLH_C2
+R_LHL_C2	Root	LHL_C	CalcinedClay	2	Bacteria	L01631	yes	R_LHL_C2
+R_LHH_C2	Root	LHH_C	CalcinedClay	2	Bacteria	L01631	yes	R_LHH_C2
+R_HLL_C2	Root	HLL_C	CalcinedClay	2	Bacteria	L01631	yes	R_HLL_C2
+R_HLH_C2	Root	HLH_C	CalcinedClay	2	Bacteria	L01631	yes	R_HLH_C2
+R_HHL_C2	Root	HHL_C	CalcinedClay	2	Bacteria	L01631	yes	R_HHL_C2
+R_HHH_C2	Root	HHH_C	CalcinedClay	2	Bacteria	L01631	yes	R_HHH_C2
+M_LLL_C3	Matrix	LLL_C	CalcinedClay	3	Bacteria	L01631	yes	M_LLL_C3
+M_LLH_C3	Matrix	LLH_C	CalcinedClay	3	Bacteria	L01631	yes	M_LLH_C3
+M_LHL_C3	Matrix	LHL_C	CalcinedClay	3	Bacteria	L01631	yes	M_LHL_C3
+M_LHH_C3	Matrix	LHH_C	CalcinedClay	3	Bacteria	L01631	yes	M_LHH_C3
+M_HLL_C3	Matrix	HLL_C	CalcinedClay	3	Bacteria	L01631	yes	M_HLL_C3
+M_HLH_C3	Matrix	HLH_C	CalcinedClay	3	Bacteria	L01631	yes	M_HLH_C3
+M_HHL_C3	Matrix	HHL_C	CalcinedClay	3	Bacteria	L01631	yes	M_HHL_C3
+M_HHH_C3	Matrix	HHH_C	CalcinedClay	3	Bacteria	L01631	yes	M_HHH_C3
+R_LLL_C3	Root	LLL_C	CalcinedClay	3	Bacteria	L01631	yes	R_LLL_C3
+R_LLH_C3	Root	LLH_C	CalcinedClay	3	Bacteria	L01631	yes	R_LLH_C3
+R_LHL_C3	Root	LHL_C	CalcinedClay	3	Bacteria	L01631	yes	R_LHL_C3
+R_LHH_C3	Root	LHH_C	CalcinedClay	3	Bacteria	L01631	yes	R_LHH_C3
+R_HLL_C3	Root	HLL_C	CalcinedClay	3	Bacteria	L01631	yes	R_HLL_C3
+R_HLH_C3	Root	HLH_C	CalcinedClay	3	Bacteria	L01631	yes	R_HLH_C3
+R_HHL_C3	Root	HHL_C	CalcinedClay	3	Bacteria	L01631	yes	R_HHL_C3
+R_HHH_C3	Root	HHH_C	CalcinedClay	3	Bacteria	L01631	yes	R_HHH_C3
+Input_1	Input	Input	Input_CCFP	1	Bacteria	L01631	yes	Input_1
+Input_2	Input	Input	Input_CCFP	2	Bacteria	L01631	yes	Input_2
+Input_3	Input	Input	Input_CCFP	3	Bacteria	L01631	yes	Input_3

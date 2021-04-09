@@ -1,0 +1,88 @@
+SampleID	Compartment	Condition	System	not_include	Description
+Input.1	input	input	input	yes	
+Input.2	input	input	input	yes	
+Input.3	input	input	input	yes	
+M.HHH.F1	matrix	HHH	F		
+M.HHH.F2	matrix	HHH	F		
+M.HHH.F3	matrix	HHH	F		
+M.HHL.F2	matrix	HHL	F		
+M.HHL.F3	matrix	HHL	F		
+M.HLH.F1	matrix	HLH	F		
+M.HLH.F2	matrix	HLH	F		
+M.HLH.F3	matrix	HLH	F		
+M.HLL.F1	matrix	HLL	F		
+M.HLL.F2	matrix	HLL	F		
+M.HLL.F3	matrix	HLL	F		
+M.LHH.F1	matrix	LHH	F		
+M.LHH.F3	matrix	LHH	F		
+M.LHL.F1	matrix	LHL	F		
+M.LHL.F2	matrix	LHL	F		
+M.LHL.F3	matrix	LHL	F		
+M.LLH.F1	matrix	LLH	F		
+M.LLH.F2	matrix	LLH	F		
+M.LLH.F3	matrix	LLH	F		
+M.LLL.F1	matrix	LLL	F		
+M.LLL.F2	matrix	LLL	F		
+M.LLL.F3	matrix	LLL	F		
+R.HHH.F1	root	HHH	F		
+R.HHL.F1	root	HHL	F		
+R.HHL.F3	root	HHL	F		
+R.HLH.F1	root	HLH	F		
+R.HLH.F2	root	HLH	F		
+R.HLH.F3	root	HLH	F		
+R.HLL.F2	root	HLL	F		
+R.HLL.F3	root	HLL	F		
+R.LHH.F3	root	LHH	F		
+R.LHL.F1	root	LHL	F		
+R.LHL.F3	root	LHL	F		
+R.LLH.F1	root	LLH	F		
+R.LLH.F3	root	LLH	F		
+R.LLL.F3	root	LLL	F		
+M.HHH.C1	matrix	HHH	C	yes	
+M.HHH.C2	matrix	HHH	C	yes	
+M.HHH.C3	matrix	HHH	C	yes	
+M.HHL.C1	matrix	HHL	C	yes	
+M.HHL.C2	matrix	HHL	C	yes	
+M.HHL.C3	matrix	HHL	C	yes	
+M.HLH.C1	matrix	HLH	C	yes	
+M.HLH.C2	matrix	HLH	C	yes	
+M.HLH.C3	matrix	HLH	C	yes	
+M.HLL.C1	matrix	HLL	C	yes	
+M.HLL.C2	matrix	HLL	C	yes	
+M.HLL.C3	matrix	HLL	C	yes	
+M.LHH.C1	matrix	LHH	C	yes	
+M.LHH.C2	matrix	LHH	C	yes	
+M.LHH.C3	matrix	LHH	C	yes	
+M.LHL.C1	matrix	LHL	C	yes	
+M.LHL.C2	matrix	LHL	C	yes	
+M.LHL.C3	matrix	LHL	C	yes	
+M.LLH.C1	matrix	LLH	C	yes	
+M.LLH.C2	matrix	LLH	C	yes	
+M.LLH.C3	matrix	LLH	C	yes	
+M.LLL.C1	matrix	LLL	C	yes	
+M.LLL.C2	matrix	LLL	C	yes	
+M.LLL.C3	matrix	LLL	C	yes	
+R.HHH.C1	root	HHH	C	yes	
+R.HHH.C2	root	HHH	C	yes	
+R.HHH.C3	root	HHH	C	yes	
+R.HHL.C1	root	HHL	C	yes	
+R.HHL.C2	root	HHL	C	yes	
+R.HHL.C3	root	HHL	C	yes	
+R.HLH.C1	root	HLH	C	yes	
+R.HLH.C2	root	HLH	C	yes	
+R.HLH.C3	root	HLH	C	yes	
+R.HLL.C1	root	HLL	C	yes	
+R.HLL.C2	root	HLL	C	yes	
+R.HLL.C3	root	HLL	C	yes	
+R.LHH.C1	root	LHH	C	yes	
+R.LHH.C2	root	LHH	C	yes	
+R.LHH.C3	root	LHH	C	yes	
+R.LHL.C1	root	LHL	C	yes	
+R.LHL.C2	root	LHL	C	yes	
+R.LHL.C3	root	LHL	C	yes	
+R.LLH.C1	root	LLH	C	yes	
+R.LLH.C2	root	LLH	C	yes	
+R.LLH.C3	root	LLH	C	yes	
+R.LLL.C1	root	LLL	C	yes	
+R.LLL.C2	root	LLL	C	yes	
+R.LLL.C3	root	LLL	C	yes	
